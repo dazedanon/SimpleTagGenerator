@@ -1,0 +1,8 @@
+# Ignore Build Files
+*.toc
+*.spec
+*.zip
+*.pkg
+*.pyz
+*.html
+*.pyc
